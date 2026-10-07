@@ -1,0 +1,6 @@
+{
+  "name": "My Tuition Manager",
+  "description": "Personal digital assistant for individual tuition teachers with offline-first tracking, chalans, receipts, tests, homework, attendance, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
